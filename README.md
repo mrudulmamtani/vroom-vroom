@@ -2,13 +2,6 @@
 
 This project implements a control system for aerodynamic optimization of a vehicle's spoiler angle based on velocity and yaw inputs. The system is modeled and simulated using **Scilab Xcos**, with blocks like PID controllers, transfer functions, and inputs/outputs.
 
----
-
-## **Project Demo**
-
-### Watch the Demo Video
-
-You can watch the project demo directly below:
 
 https://github.com/user-attachments/assets/2fa059af-0b4a-46eb-8730-41d2e917fa05
 
