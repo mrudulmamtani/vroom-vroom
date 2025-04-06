@@ -1,7 +1,7 @@
 # **Aerodynamic Optimization Using Xcos**
 
 This project implements a control system for aerodynamic optimization of a vehicle's spoiler angle based on velocity and yaw inputs. The system is modeled and simulated using **Scilab Xcos**, with blocks like PID controllers, transfer functions, and inputs/outputs.
-<video src="https://github.com/mrudulmamtani/vroom vroom wind final.mp4" controls>
+<video src="https://github.com/mrudulmamtani/vroomvroomvid.mp4" controls>
 </video>
 
 ## **Project Overview**
