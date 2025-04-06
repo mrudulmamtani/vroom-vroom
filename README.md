@@ -1,6 +1,11 @@
 # **Aerodynamic Optimization Using XGboost**
 
-https://github.com/user-attachments/assets/2fa059af-0b4a-46eb-8730-41d2e917fa05
+
+
+https://github.com/user-attachments/assets/c12d1c32-169f-448b-b91f-7a095a8d2394
+
+
+
 This project implements a control system for aerodynamic optimization of a vehicle's spoiler angle based on velocity and yaw inputs. The system is modeled and simulated using **Scilab Xcos**, with blocks like PID controllers, transfer functions, and inputs/outputs.
 
 ---
