@@ -10,7 +10,7 @@ This project implements a control system for aerodynamic optimization of a vehic
 
 You can watch the project demo directly below:
 
-<video src="https://github.com/mrudulmamtani/vroom-vroom/blob/main/vroomvroomvid.mp4" controls>
+<video src="https://drive.google.com/file/d/1QLjyTLg7QjdRFDSbKPsYIr6TbudLpj9l/view?usp=sharing" controls>
 Your browser does not support the video tag. [Click here to view the video](https://github.com/mrudulmamtani/vroom-vroom/blob/main/vroomvroomvid.mp4).
 </video>
 
