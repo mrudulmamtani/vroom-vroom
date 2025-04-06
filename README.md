@@ -1,8 +1,20 @@
 # **Aerodynamic Optimization Using Xcos**
 
 This project implements a control system for aerodynamic optimization of a vehicle's spoiler angle based on velocity and yaw inputs. The system is modeled and simulated using **Scilab Xcos**, with blocks like PID controllers, transfer functions, and inputs/outputs.
+
+---
+
+## **Project Demo**
+
+### Watch the Demo Video
+
+You can watch the project demo directly below:
+
 <video src="https://github.com/mrudulmamtani/vroom-vroom/blob/main/vroomvroomvid.mp4" controls>
+Your browser does not support the video tag. [Click here to view the video](https://github.com/mrudulmamtani/vroom-vroom/blob/main/vroomvroomvid.mp4).
 </video>
+
+---
 
 ## **Project Overview**
 
@@ -38,14 +50,12 @@ To run this project, you need:
 
 1. Install Scilab from [Scilab Official Website](https://www.scilab.org/download).
 2. Open Scilab and initialize Xcos:
-
 ```scilab
 loadXcosLibs();
 xcos();
 ```
 
 3. Clone this repository:
-
 ```bash
 git clone https://github.com/mrudulmamtani/aerodynamic-optimization-xcos.git
 cd aerodynamic-optimization-xcos
@@ -145,5 +155,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 Special thanks to Scilab's open-source community for providing tools like Xcos for dynamic system modeling.
 
----
 
