@@ -1,4 +1,4 @@
-# **Aerodynamic Optimization Using Xcos**
+# **Aerodynamic Optimization Using XGboost & SimLab Simulation**
 
 This project implements a control system for aerodynamic optimization of a vehicle's spoiler angle based on velocity and yaw inputs. The system is modeled and simulated using **Scilab Xcos**, with blocks like PID controllers, transfer functions, and inputs/outputs.
 
@@ -10,7 +10,7 @@ This project implements a control system for aerodynamic optimization of a vehic
 
 You can watch the project demo directly below:
 
-<video src="https://github.com/mrudulmamtani/vroom-vroom/main/vroomvroomvid.mp4" controls> Your browser does not support the video tag. [Click here to view the video](https://github.com/mrudulmamtani/vroom-vroom/main/vroomvroomvid.mp4). </video>
+https://github.com/user-attachments/assets/2fa059af-0b4a-46eb-8730-41d2e917fa05
 
 ---
 
